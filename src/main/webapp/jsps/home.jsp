@@ -4,13 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>cgdevopsbot- Home Page</title>
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Ph No: +91-9980923226,+91-9900012028  Bengaluru,Karnataka </h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">cgdevopsbot,chennai </h1>
+<h1 align="center"> .......cgdevops chennai....</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,21 +33,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies r, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		cgdevopsbot, 
+		chennai,
+		+91-7358325685,+91-8688813588
+		konduru.rajasekhar@capgemini.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:konduru.rajasekhar@capgemini.com">Mail to cgdevopsbot</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>cgdevopsbot, chennai.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://cgdevopsbot.com/">cgdevopsbot</a> </small></p>
 
 </body>
 </html>
